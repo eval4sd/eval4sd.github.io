@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Eval4SD"
 title_separator          : "-"
 name                     : &name "Eval4SD"
-url                      : "https://CaroHolt.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://CaroHolt.github.io/konvens-eval4sd" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/eval4sd" # the subpath of your site, e.g. "/blog"
 repository               : "CaroHolt/konvens-eval4sd"
