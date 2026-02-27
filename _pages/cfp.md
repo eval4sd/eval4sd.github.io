@@ -41,7 +41,7 @@ We invite submissions on (but not limited to) the following topic areas:
 | Submissions open | TBD |
 | Submission deadline | TBD |
 | Notification of acceptance | TBD |
-| Camera-ready deadline | TBD |
+| Camera-ready deadline | August 15, 2026 |
 | Workshop date | September 2026 |
 
 *All deadlines are 11:59 PM CEST.*
