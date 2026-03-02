@@ -38,7 +38,7 @@ We invite submissions on (but not limited to) the following topic areas:
 
 | | |
 |---|---|
-| Submissions open | TBD |
+| Submissions open | May 04, 2026 |
 | Submission deadline | TBD |
 | Notification of acceptance | TBD |
 | Camera-ready deadline | August 15, 2026 |
