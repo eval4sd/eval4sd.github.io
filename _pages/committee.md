@@ -1,5 +1,5 @@
 ---
-permalink: /committees/
+permalink: /committee/
 title: "Eval4SD - Committees"
 layout: single
 author_profile: false
@@ -47,4 +47,4 @@ header:
 - Angelie Kraft, Weizenbaum-Institut
 - Tim Fischer, Universität Hamburg
 - Jan Strich, Universität Hamburg
-- Mario Sanz-Guerrero, Johannes Gutenberg University Mainz 
+- Mario Sanz-Guerrero, Johannes Gutenberg University Mainz
