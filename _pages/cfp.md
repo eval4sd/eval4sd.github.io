@@ -10,7 +10,7 @@ header:
 ---
 
 We invite submissions on the evaluation of large language models in specialized 
-domains such as but not limited to law, medicine, science, finance, education, and policy.
+domains such as but not limited to law, medicine, science, finance, digital humanities, social sciences, education, and policy.
 All submissions must follow the [ACL formatting guidelines](https://github.com/acl-org/acl-style-files) 
 and be submitted through OpenReview. Submissions must be anonymized for double-blind review.
 
