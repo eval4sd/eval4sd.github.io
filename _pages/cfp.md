@@ -48,6 +48,6 @@ We invite submissions on (but not limited to) the following topic areas:
 
 ## Submission Link
 
-Submissions via **[OpenReview](#)** *(https://openreview.net/group?id=GSCL.org/KONVENS/2026/Workshop/Eval4SD)*.
+Submissions via **[OpenReview](https://openreview.net/group?id=GSCL.org/KONVENS/2026/Workshop/Eval4SD)**.
 
 All submissions undergo double-blind peer review. Submitted papers must not be under review elsewhere.
