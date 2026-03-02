@@ -14,9 +14,12 @@ main:
   - title: "Committee"
     url: /committee/
 
-  - title: "Accepted Papers"
-    url: /accepted/
-    
-  - title: "Program"
-    url: /program/
+  #- title: "Accepted Papers"
+  #  url: /accepted/
+  #  
+  #- title: "Program"
+  #  url: /program/
+  
+  - title: "Contact"
+    url: /contact/
 
