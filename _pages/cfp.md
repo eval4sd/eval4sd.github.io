@@ -11,7 +11,7 @@ header:
 
 We invite submissions to the First Workshop on Evaluating LLMs for Specialized Domains (**Eval4SD**), to be held co-located with KONVENS 2026 in Hamburg, Germany (September 14th - 17th).
 
-The workshop focuses on the evaluation of large language models in specialized domains such as—but not limited to—law, medicine, science, finance, digital humanities, social sciences, education, and policy. In this space, we have identified three core areas detailed below: LLM Benchmarking, Domain Research Replication, and Evaluation Methodology. Work that fits within the general theme but not any of the focus areas is also welcome!
+The workshop focuses on the evaluation of large language models in specialized domains such as—but not limited to—law, medicine, science, finance, digital humanities, social sciences, education, and politics. In this space, we have identified three core areas detailed below: LLM Benchmarking, Domain Research Replication, and Evaluation Methodology. Work that fits within the general theme but not any of the focus areas is also welcome!
 
 ## Topics of Interest
 
