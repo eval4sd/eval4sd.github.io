@@ -9,11 +9,12 @@ header:
   overlay_color: "#2b5f8e"
 ---
 
-**Eval4SD at KONVENS 2026 · Hamburg, Germany · September 2026**
+**Eval4SD at KONVENS 2026 · Hamburg, Germany (and Online) · September 2026**
 
 ## News
+- **March 2026** — The workshop will be hybrid, allowing for online participation. Presenters are encouraged to participate in person whenever possible.
+- **March 2026** — Call for papers released.
 - **February 2026** — Workshop accepted at KONVENS 2026, Hamburg.
-- **TBD** — Call for Papers will be published soon. Submissions open via OpenReview.
 
 
 ## About
