@@ -24,9 +24,9 @@ We allow submissions in two categories:
 - **Long Papers (up to 8 pages + references)**: Complete research contributions with novel findings, experimental results, and thorough analysis. Suitable for mature work on LLM evaluation methodology or new benchmark proposals.
 - **Short & Position Papers (up to 4 pages + references)**: Preliminary results, position papers, system descriptions, and focused contributions. Great for provocative arguments or narrowly scoped empirical studies.
 
-Submissions follow the [ACL template](https://github.com/acl-org/acl-style-files); reviews are double-blind and are conducted via [OpenReview](https://openreview.net/group?id=GSCL.org/KONVENS/2026/Workshop/Eval4SD). 
+Submissions follow the [ACL template](https://github.com/acl-org/acl-style-files); reviews are double-blind and are conducted via [OpenReview](https://openreview.net/group?id=GSCL.org/KONVENS/2026/Workshop/Eval4SD). The proceedings will be published in the ACL anthology.
 
-Additionally, **we welcome non-archival submissions** to present recently published work or seek feedback on work-in-progress without violating dual-submission policies. Accepted papers will be presented at the workshop, but will not be included in the official proceedings.
+Additionally, **we welcome non-archival submissions** to present recently published work or seek feedback on work-in-progress without violating dual-submission policies. Accepted non-archival papers will be presented at the workshop, but will not be included in the official proceedings.
 
 ## Important Dates
 
